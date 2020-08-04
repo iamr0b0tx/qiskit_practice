@@ -3,4 +3,4 @@ Programs wriiten to practice Qiskit Starting from IBM Quantum Qiskit Summer Scho
 
 
 # Credits
-1. (Elisa Bäumer)[https://www.linkedin.com/in/elisa-baeumer/]
+1. [Elisa Bäumer](https://www.linkedin.com/in/elisa-baeumer/)
