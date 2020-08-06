@@ -1,5 +1,5 @@
 # Qiskit Practice
-Programs wriiten to practice Qiskit Starting from IBM Quantum Qiskit Summer School.
+Programs wriiten to practice Qiskit Starting with IBM Quantum Qiskit Summer School.
 
 # Programs
 1. [Practice](https://github.com/iamr0b0tx/qiskit_practice/blob/master/practice.ipynb)
